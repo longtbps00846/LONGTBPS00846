@@ -19,7 +19,7 @@ Public Class FrmLogin
         Catch ex As Exception
         End Try
     End Sub
-
+    'chỉnh sửa bởi tài khoản 2 LONGTBPS00846@GMAIL.COM
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
         Me.Hide()
     End Sub
